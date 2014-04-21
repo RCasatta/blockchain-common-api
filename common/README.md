@@ -1,5 +1,6 @@
-blockchain-common-api
-=====================
+# Blockchain Common API
 
-In this directory there are the proposed standards.
+## Common
+
+In this directory there are common endpoints from different block explorers
 
