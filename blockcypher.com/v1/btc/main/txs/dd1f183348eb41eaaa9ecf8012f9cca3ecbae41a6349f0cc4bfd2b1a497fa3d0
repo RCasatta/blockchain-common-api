@@ -1,0 +1,39 @@
+{
+  "block_hash": "0000000000000000189bba3564a63772107b5673c940c16f12662b3e8546b412",
+  "block_height": 294322,
+  "hash": "dd1f183348eb41eaaa9ecf8012f9cca3ecbae41a6349f0cc4bfd2b1a497fa3d0",
+  "addresses": [
+    "143iXmvrg66fCDFNQjahJMHa8P4o8TcMV2",
+    "1LTU7N1Rz8JwgteomqCzaKFMaqzML4nMgZ"
+  ],
+  "total": 14830000,
+  "fees": 10000,
+  "received": "2014-04-08T19:13:24.705Z",
+  "ver": 1,
+  "lock_time": 0,
+  "vin_sz": 1,
+  "vout_sz": 1,
+  "confirmed": 2637,
+  "inputs": [
+    {
+      "prev_hash": "3fba439465ac18150070f1b06edbf30b59e25ca10cd773a1f6214366cace0553",
+      "output_index": 0,
+      "script": "49304602210099eeb8166c9edd8ee0c1cb79398bf1642b2289a9156aec583568520415c4c9aa022100dad21f54757b42d66ffde314b3e61d9bafac234fecf1bdccec1a93307c4b1b53012102c1920cfda624b0482a06ba9753df66746fa6d232024a9920c2c0555294481c9b",
+      "output_value": 14840000,
+      "addresses": [
+        "143iXmvrg66fCDFNQjahJMHa8P4o8TcMV2"
+      ],
+      "script_type": "pay-to-pubkey-hash"
+    }
+  ],
+  "outputs": [
+    {
+      "value": 14830000,
+      "script": "76a914d56bd5bdffebbc1a8dc08fe535b34641ef74112288ac",
+      "addresses": [
+        "1LTU7N1Rz8JwgteomqCzaKFMaqzML4nMgZ"
+      ],
+      "script_type": "pay-to-pubkey-hash"
+    }
+  ]
+}
