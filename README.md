@@ -6,7 +6,7 @@ Improving availability, dependability, performance of API clients and those of t
 This is achieved with failover and caching techniques that in a API client are a lot easier in a more standard enviroment.
 
 ## Organization
-Directory structures reflects API calls endpoints. Inside the *common* directory there are common API endpoints that satisfy requirements and are available from at least 2 providers. Inside the *proposal* directory there are API endpoints that are good for API users that they would like be implemented by block explorers to be listed in common directory. Others directory contains examples from existing block explorers.
+Directory structures reflects API calls endpoints. Inside the **common** directory there are common API endpoints that satisfy requirements and are available from at least 2 providers. Inside the **proposal** directory there are API endpoints that are good for API users that they would like be implemented by block explorers to be listed in common directory. Others directory contains examples from existing block explorers.
 
 ## Requirements for common
 To be listed in the common directories, API calls must 
@@ -17,4 +17,10 @@ To be listed in the common directories, API calls must
 ## Requirements for proposal
 Being proposed by API users
 
-Open for comments
+## Open for comments
+If you are involved as an API developer or as API users we would like this process will be driven by you.
+
+## Donate
+For the effort in this project
+1DiWBDy3eejMtUUPAvVLqWmPVsecbqbrSU
+
